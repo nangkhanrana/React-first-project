@@ -1,0 +1,50 @@
+.home-container {
+  padding: 40px;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(to right, #0077ff, #00c6ff);
+  color: white;
+  border-radius: 16px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.hero-btn {
+  background: white;
+  color: #0077ff;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 30px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.hero-btn:hover {
+  background: #e1e1e1;
+}
+
+.latest-section {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.latest-section h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.latest-section p {
+  font-size: 18px;
+}
